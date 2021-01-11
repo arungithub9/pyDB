@@ -1,10 +1,10 @@
 # pyDB - Python DB Emulator
 
-A sql lite-esque engine coded from scratch in python without any data crunching libraries like pandas / scipy. Created as a part of my graduate database project at New York University. Recieved 95/100 points and A grade.
+A sql lite-esque engine coded from scratch in pure python3 without any data crunching libraries like pandas / scipy. Created as a part of my graduate database project at New York University. Recieved 95/100 points and A grade.
 
 ## Required External Packages :
-1. Btrees : https: pypi.org/project/BTrees/ (used for btree indexing in tables)
-2. Numpy : https: numpy.org
+1. Btrees : https://pypi.org/project/BTrees/ (used for btree indexing in tables)
+2. Numpy : https://numpy.org
 
 ## Steps to run :
 1. Clone the repository.
