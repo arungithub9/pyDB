@@ -14,7 +14,9 @@ A sql lite-esque engine coded from scratch in pure python3 without any data crun
    
 ## Format of commands :
 
-All the sample commands to be run are found in `commands.txt`. The commands follow the following syntax. More commands can be added to `commands.txt`if required. 
+All the sample commands to be run are found in `commands.txt`. The commands follow the following syntax. More commands can be added to `commands.txt`if required. For a complete list of commands, constraints and requirements please see this [file](readme.pdf).
+
+
 
 `R := inputfromfile(sales1)` : Used to import a vertical bar delimited file. Here `R` is the result table. Please ensure you use the `:=`to prevent syntax errors.  The first line contains the column names. The subsequent lines contain one recored each. Please view example files [one](sales1.txt) and [two](sales2.txt) for sample data and formatting. Another example is `S := inputfromfile(sales2)`.
 
